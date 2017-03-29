@@ -1,0 +1,5 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_AUTHENTICATION" value="true" />
+  </component>
+</application>
