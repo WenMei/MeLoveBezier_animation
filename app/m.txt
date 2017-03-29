@@ -1,0 +1,18 @@
+
+贝赛尔曲线
+属性动画
+
+
+1.补间动画Tween
+2.帧动画 Frame
+3.属性动画 ObjectAnimation
+	3.0+API出现
+	控制View的属性变化来达到动画的效果
+
+平移X,Y---PointF
+
+
+1.点赞就出现一个ImageView
+	用代码来控制，准备一个容器，ImageView动态添加到容器里面
+	1）添加位置：容器的底部和水平居中
+	 容器：自定义容器，extends RelativeLayout
